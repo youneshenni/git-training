@@ -4,7 +4,9 @@ body {
 p:last-child {
   color: green;
   font-weight: 700;
+  font-style: italic;
 }
 h2 {
   color: red;
+  font-style: inherit;
 }
