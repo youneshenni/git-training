@@ -1,0 +1,7 @@
+body {
+  margin: 0;
+}
+p:last-child {
+  color: green;
+  font-weight: 700;
+}
